@@ -1,0 +1,13 @@
+table tr th {
+    border: 2px solid black;
+  }
+  table tr td {
+    border: 2px solid black;
+  }
+  table {
+    border-collapse: collapse;
+    height: 95px;
+    width: 65%;
+    font-size: 25px;
+    background-color: rgb(127, 190, 209);
+  }
